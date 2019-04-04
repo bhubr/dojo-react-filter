@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "Forrest Gump",
+    "tags": ["drama"]
+  },
+  {
+    "id": 2,
+    "title": "Titanic",
+    "tags": ["drama"]
+  },
+  {
+    "id": 3,
+    "title": "Star Wars",
+    "tags": ["science-fiction"]
+  },
+  {
+    "id": 4,
+    "title": "Truman Show",
+    "tags": ["comedy", "anticipation"]
+  }
+]
